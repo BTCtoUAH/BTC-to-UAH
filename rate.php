@@ -15,9 +15,6 @@
     $rate = get_rate();
 
     $date = date("d.m.y H:i:s");
-    //$gained_data = "<h1 style=\"font-family:verdana;\" align=\"center\">Поточний курс:</h1><h3 align=\"center\">1 BTC = $rate UAH";
-    //$gained_data .="<h5 style=\"font-family:verdana;\" align=\"center\">*станом на $date</h5>";
-    //echo $gained_data;
 ?>
 <center>
     <h1 style="border: dashed; font-family: verdana; background-color: gray">Поточний курс:</h1>
